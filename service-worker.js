@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.2ffd709ee0142ba15bf25ccd099cf4a1.js"
+  "precache-manifest.f2e8d6da9640172dcbb8e57876a0b808.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "call_lift"});
